@@ -23,6 +23,6 @@ TODO:
 # Task 4
 Todo:
 * Add the label column to the original (concatenated) dataframe respectively
-* Use corr-based feature selection model to answer both
-  * Which features are good for classification?
+* Use corr-based feature selection model (for now) to answer both
+  * Which features are good for classification? use variance for each feature
   * Which features are highly correlated with the label column
